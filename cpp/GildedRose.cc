@@ -47,7 +47,7 @@ void GildedRose::updateQuality()
         {
             if (items[i].name != "Aged Brie")
             {
-                if (items[i].name != "Backstage passes to a TAFKAL80ETC concert"&&)
+                if (items[i].name != "Backstage passes to a TAFKAL80ETC concert")
                 {
                     if (items[i].quality > 0)
                     {

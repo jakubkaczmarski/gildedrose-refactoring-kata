@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/GildedRose.cc
+GildedRose.h
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/GildedRose.h
+
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/GildedRose.h
+string
+-
+vector
+-
+
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/GildedRoseTextTests.cc
+GildedRose.h
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/GildedRose.h
+iostream
+-
+

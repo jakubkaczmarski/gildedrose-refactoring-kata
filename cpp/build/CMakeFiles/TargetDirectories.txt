@@ -1,0 +1,5 @@
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/build/CMakeFiles/edit_cache.dir
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRoseTextTests.dir
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/build/CMakeFiles/googletest.dir
+/home/mnurzyns/BAKCYL_2k19/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRose.dir
