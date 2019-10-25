@@ -62,13 +62,10 @@ void GildedRose::updateQuality()
                     items[i].quality = 0;
                 }
             }
-            else
-            {
-                if (items[i].quality < 50)
+            else if (items[i].quality < 50)
                 {
                     ++items[i].quality;
                 }
-            }
         }
     }
 }
