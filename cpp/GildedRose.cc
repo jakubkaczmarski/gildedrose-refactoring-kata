@@ -46,7 +46,6 @@ void GildedRose::updateQuality()
         {
             --items[i].sellIn;
         }
-
         if (items[i].sellIn < 0)
         {
             if (items[i].name != "Aged Brie")
@@ -55,10 +54,7 @@ void GildedRose::updateQuality()
                 {
                     if (items[i].quality > 0)
                     {
-                        if (items[i].name != "Sulfuras, Hand of Ragnaros")
-                        {
-                            --items[i].quality;
-                        }
+                        --items[i].quality;
                     }
                 }
                 else
